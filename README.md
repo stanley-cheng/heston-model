@@ -1,2 +1,2 @@
 # heston-model
-Heston Model Implementation
+Implementation of the Heston Model by Stanley Cheng.
